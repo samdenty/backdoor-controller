@@ -16,14 +16,14 @@ By replacing `sethc.exe` with `backdoor-controller.exe` you'll get numerous adva
     - `help` - shows all the available options for Backdoor Controller
 
 ## Screenshots
-![](screenshots/activate.png)
+![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/activate.PNG)
 
-![](screenshots/threshold.png)
+![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/threshold.PNG)
 
-![](screenshots/cmd.png)
+![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/cmd.PNG)
 
-![](screenshots/admin.png)
+![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/admin.PNG)
 
-![](screenshots/admin2.png)
+![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/admin2.PNG)
 
-![](screenshots/help.png)
+![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/help.PNG)
