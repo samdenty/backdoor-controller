@@ -15,6 +15,9 @@ By replacing `sethc.exe` with `backdoor-controller.exe` you'll get numerous adva
     - `uninstall` - uninstalls the backdoor replacing the modified `sethc.exe` with the original
     - `help` - shows all the available options for Backdoor Controller
 
+## Compiling
+
+In order to get the native Windows popup dialogs & convert the batch file to an executable, I used [Bat To Exe Converter](http://www.f2ko.de/en/b2e.php) by [Fatih Kodak](http://www.f2ko.de/en/b2e.php). It's an awesome project, with loads of examples  & excellent documentation.
 ## Screenshots
 ![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/activate.PNG)
 
