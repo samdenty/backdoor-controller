@@ -30,3 +30,5 @@ In order to get the native Windows popup dialogs & convert the batch file to an 
 ![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/admin2.PNG)
 
 ![](https://raw.githubusercontent.com/samdenty99/backdoor-controller/master/screenshots/help.PNG)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-85426772-5/backdoor-controller/?pixel)](https://github.com/igrigorik/ga-beacon)
